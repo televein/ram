@@ -5740,9 +5740,10 @@ html {
   
   .navbar1_link {
     color: #fff;
-    padding: .5rem 1rem;
+    padding: 1rem 1rem;
     font-family: Montserrat, sans-serif;
     font-weight: 400;
+
   }
   
   .navbar1_link.w--current {
@@ -7825,7 +7826,7 @@ html {
     }
   
     .navbar1_menu.is-page-height-tablet {
-      height: 50vh;
+      height: 20vh;
       padding-bottom: 0;
     }
   
@@ -8213,8 +8214,8 @@ html {
   
     .navbar1_link {
       width: auto;
-      padding: .75rem 0;
-      font-size: 1.125rem;
+      padding: 1rem 0;
+      font-size: 2rem;
     }
   
     .menu-icon1_line-middle-2 {
