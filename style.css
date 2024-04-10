@@ -274,7 +274,8 @@ html {
   
   .w-button {
     color: #fff;
-    line-height: inherit;
+    line-height: 1;
+
     cursor: pointer;
     background-color: #3898ec;
     border: 0;
@@ -2555,7 +2556,9 @@ html {
     align-items: center;
     margin-left: 1rem;
     display: flex;
+   
   }
+  
   
   .navbar1_component {
     width: 100%;
@@ -5308,9 +5311,10 @@ html {
     background-color: #b1c2ff;
     border: 1px #000;
     border-radius: 50px;
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
     font-family: Space Grotesk, sans-serif;
     font-weight: 400;
+
   }
   
   .button-8.is-secondary {
@@ -5385,6 +5389,7 @@ html {
     background-image: linear-gradient(#fcfcfd, #b6b8bc);
     margin-bottom: 0;
     font-family: Montserrat, sans-serif;
+    font-size: 60px;
   }
   
   .spacer-huge {
@@ -7826,7 +7831,7 @@ html {
     }
   
     .navbar1_menu.is-page-height-tablet {
-      height: 20vh;
+      height: 50vh;
       padding-bottom: 0;
     }
   
@@ -8215,7 +8220,7 @@ html {
     .navbar1_link {
       width: auto;
       padding: 1rem 0;
-      font-size: 2rem;
+      font-size: 4rem;
     }
   
     .menu-icon1_line-middle-2 {
